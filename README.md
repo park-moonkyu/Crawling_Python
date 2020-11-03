@@ -7,7 +7,7 @@ If you want to see metadata or get more detailed information on the data set, pl
 파이썬으로 웹을 크롤링할수있는 라이브러리와 프레임워크는 매우 다양하다.</br>
 그중 BeautifulSoap 와 Selenium 을 활용해보고자 한다.</br></br></br>
 
-# 보면 좋을 순서 : Crawling(Beautifulsoap).ipynb --> Crawling(Selenium).ipynb --> mycrawling
+### 보면 좋을 순서 : Crawling(Beautifulsoap).ipynb -> Crawling(Selenium).ipynb -> mycrawling.ipynb 
 위의 코드순서는 각각을 소개하고 mycrawling에서는 두개의 시간을 비교해보았다. </br>
 더 빠른 속도를 낼수있는 코드는 언제든지 환영이다 ! Welcome to contribution
  ## Table of content
